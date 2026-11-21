@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: mozambiquean-restitution-roadmap-and-qsf-trust-execution
-  name: Mozambiquean Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/mozambiquean-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_mz_001
+    name: Mozambique Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_002
+    name: Mozambique Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_003
+    name: Mozambique Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_004
+    name: Mozambique Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_005
+    name: Mozambique Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_006
+    name: Mozambique Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_007
+    name: Mozambique Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_008
+    name: Mozambique Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_009
+    name: Mozambique Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_010
+    name: Mozambique Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_011
+    name: Mozambique Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_012
+    name: Mozambique Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_013
+    name: Mozambique Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_014
+    name: Mozambique Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_015
+    name: Mozambique Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_016
+    name: Mozambique Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_017
+    name: Mozambique Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_018
+    name: Mozambique Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_019
+    name: Mozambique Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_020
+    name: Mozambique Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_021
+    name: Mozambique Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_022
+    name: Mozambique Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_023
+    name: Mozambique Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_024
+    name: Mozambique Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_025
+    name: Mozambique Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_026
+    name: Mozambique Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_027
+    name: Mozambique Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_028
+    name: Mozambique Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_029
+    name: Mozambique Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_030
+    name: Mozambique Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_031
+    name: Mozambique Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_032
+    name: Mozambique Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_033
+    name: Mozambique Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_034
+    name: Mozambique Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_035
+    name: Mozambique Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_036
+    name: Mozambique Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_037
+    name: Mozambique Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_038
+    name: Mozambique Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_039
+    name: Mozambique Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_040
+    name: Mozambique Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_041
+    name: Mozambique Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_042
+    name: Mozambique Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_043
+    name: Mozambique Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_044
+    name: Mozambique Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_045
+    name: Mozambique Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_046
+    name: Mozambique Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_047
+    name: Mozambique Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_048
+    name: Mozambique Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_049
+    name: Mozambique Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_050
+    name: Mozambique Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_051
+    name: Mozambique Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_052
+    name: Mozambique Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_053
+    name: Mozambique Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_054
+    name: Mozambique Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_055
+    name: Mozambique Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_056
+    name: Mozambique Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_057
+    name: Mozambique Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_058
+    name: Mozambique Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_059
+    name: Mozambique Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_060
+    name: Mozambique Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_061
+    name: Mozambique Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_062
+    name: Mozambique Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_063
+    name: Mozambique Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_064
+    name: Mozambique Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_065
+    name: Mozambique Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_066
+    name: Mozambique Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_067
+    name: Mozambique Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_068
+    name: Mozambique Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_069
+    name: Mozambique Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_070
+    name: Mozambique Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_071
+    name: Mozambique Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_072
+    name: Mozambique Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_073
+    name: Mozambique Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_074
+    name: Mozambique Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_075
+    name: Mozambique Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_076
+    name: Mozambique Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_077
+    name: Mozambique Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_078
+    name: Mozambique Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_079
+    name: Mozambique Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_080
+    name: Mozambique Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_081
+    name: Mozambique Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_082
+    name: Mozambique Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_083
+    name: Mozambique Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_084
+    name: Mozambique Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_085
+    name: Mozambique Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_086
+    name: Mozambique Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_087
+    name: Mozambique Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_088
+    name: Mozambique Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_089
+    name: Mozambique Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_090
+    name: Mozambique Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_091
+    name: Mozambique Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_092
+    name: Mozambique Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_093
+    name: Mozambique Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_094
+    name: Mozambique Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_095
+    name: Mozambique Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_096
+    name: Mozambique Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_097
+    name: Mozambique Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_098
+    name: Mozambique Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_099
+    name: Mozambique Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_100
+    name: Mozambique Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_101
+    name: Mozambique Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_102
+    name: Mozambique Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_103
+    name: Mozambique Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_104
+    name: Mozambique Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_105
+    name: Mozambique Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_106
+    name: Mozambique Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_107
+    name: Mozambique Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_108
+    name: Mozambique Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_109
+    name: Mozambique Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_110
+    name: Mozambique Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_111
+    name: Mozambique Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_112
+    name: Mozambique Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_113
+    name: Mozambique Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_114
+    name: Mozambique Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_115
+    name: Mozambique Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_116
+    name: Mozambique Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_117
+    name: Mozambique Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_118
+    name: Mozambique Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_119
+    name: Mozambique Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_120
+    name: Mozambique Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_121
+    name: Mozambique Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_122
+    name: Mozambique Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_123
+    name: Mozambique Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_124
+    name: Mozambique Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_125
+    name: Mozambique Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_126
+    name: Mozambique Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_127
+    name: Mozambique Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_128
+    name: Mozambique Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_129
+    name: Mozambique Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_130
+    name: Mozambique Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_131
+    name: Mozambique Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_132
+    name: Mozambique Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_133
+    name: Mozambique Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_134
+    name: Mozambique Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_135
+    name: Mozambique Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_136
+    name: Mozambique Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_137
+    name: Mozambique Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_138
+    name: Mozambique Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_139
+    name: Mozambique Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_140
+    name: Mozambique Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_141
+    name: Mozambique Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_142
+    name: Mozambique Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_143
+    name: Mozambique Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_144
+    name: Mozambique Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_145
+    name: Mozambique Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_146
+    name: Mozambique Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_147
+    name: Mozambique Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_148
+    name: Mozambique Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_149
+    name: Mozambique Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_150
+    name: Mozambique Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_151
+    name: Mozambique Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_152
+    name: Mozambique Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_153
+    name: Mozambique Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_154
+    name: Mozambique Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_155
+    name: Mozambique Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_156
+    name: Mozambique Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_157
+    name: Mozambique Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_158
+    name: Mozambique Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_159
+    name: Mozambique Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_160
+    name: Mozambique Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_161
+    name: Mozambique Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_162
+    name: Mozambique Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_163
+    name: Mozambique Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_164
+    name: Mozambique Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_165
+    name: Mozambique Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_166
+    name: Mozambique Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_167
+    name: Mozambique Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_168
+    name: Mozambique Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_169
+    name: Mozambique Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_170
+    name: Mozambique Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_171
+    name: Mozambique Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_172
+    name: Mozambique Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_173
+    name: Mozambique Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_174
+    name: Mozambique Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_175
+    name: Mozambique Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_176
+    name: Mozambique Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_177
+    name: Mozambique Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_178
+    name: Mozambique Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_179
+    name: Mozambique Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_180
+    name: Mozambique Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_181
+    name: Mozambique Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_182
+    name: Mozambique Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_183
+    name: Mozambique Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_184
+    name: Mozambique Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_185
+    name: Mozambique Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_186
+    name: Mozambique Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_187
+    name: Mozambique Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_188
+    name: Mozambique Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_189
+    name: Mozambique Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_190
+    name: Mozambique Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_191
+    name: Mozambique Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_192
+    name: Mozambique Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_193
+    name: Mozambique Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_194
+    name: Mozambique Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_195
+    name: Mozambique Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_196
+    name: Mozambique Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_197
+    name: Mozambique Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_198
+    name: Mozambique Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_199
+    name: Mozambique Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_200
+    name: Mozambique Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_201
+    name: Mozambique Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_202
+    name: Mozambique Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_203
+    name: Mozambique Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_204
+    name: Mozambique Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_205
+    name: Mozambique Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_206
+    name: Mozambique Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_207
+    name: Mozambique Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_208
+    name: Mozambique Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_209
+    name: Mozambique Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_210
+    name: Mozambique Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_211
+    name: Mozambique Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_212
+    name: Mozambique Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_213
+    name: Mozambique Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_214
+    name: Mozambique Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_215
+    name: Mozambique Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_216
+    name: Mozambique Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_217
+    name: Mozambique Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_218
+    name: Mozambique Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_219
+    name: Mozambique Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_220
+    name: Mozambique Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_221
+    name: Mozambique Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_222
+    name: Mozambique Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_223
+    name: Mozambique Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_224
+    name: Mozambique Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_225
+    name: Mozambique Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_226
+    name: Mozambique Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_227
+    name: Mozambique Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_228
+    name: Mozambique Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_229
+    name: Mozambique Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_230
+    name: Mozambique Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_231
+    name: Mozambique Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_232
+    name: Mozambique Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_233
+    name: Mozambique Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_234
+    name: Mozambique Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_235
+    name: Mozambique Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_236
+    name: Mozambique Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_237
+    name: Mozambique Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_238
+    name: Mozambique Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_239
+    name: Mozambique Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_240
+    name: Mozambique Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_241
+    name: Mozambique Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_242
+    name: Mozambique Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_243
+    name: Mozambique Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_244
+    name: Mozambique Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_245
+    name: Mozambique Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_246
+    name: Mozambique Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_247
+    name: Mozambique Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_248
+    name: Mozambique Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_249
+    name: Mozambique Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_250
+    name: Mozambique Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_251
+    name: Mozambique Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mz_252
+    name: Mozambique Skill 252
+    status: ACTIVE_SCAFFOLD
