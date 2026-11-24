@@ -35,9 +35,6 @@
 | 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
 | 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
 
-| 2026-11-23 | Portuguese_National_Archives_public_portal.html | https://antt.dglab.gov.pt/ | OpenCode/harvest | 1c7405bb2e9e8e6dd06ac0ca609489e90a50bc82a80e301756f47c02ded67f25 | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=34877 final_url=https://antt.dglab.gov.pt/ |
-
 ## Intake Rules
 - Record source URL, access date, downloader, file hash, and storage path.
 - No authenticated claim without custodian/legal review.
-- 2026-11-23T07:09:26.445277Z Wave 5 reconciliation: captures_meta=27, pending_recapture=5; all statuses PENDING_LEGAL_REVIEW; no VERIFIED without local hashed artifact + human sign-off.
